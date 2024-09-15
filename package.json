@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-20.8.0",
+  "version": "1.0.0",
+  "description": "concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoddipatlaSrinivas/srinivas-nodejs-22.8.0.git"
+  },
+  "author": "srinivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoddipatlaSrinivas/srinivas-nodejs-22.8.0/issues"
+  },
+  "homepage": "https://github.com/DoddipatlaSrinivas/srinivas-nodejs-22.8.0#readme",
+  "type": "module"
+}
